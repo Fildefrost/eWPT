@@ -2,10 +2,9 @@
 
 
 
-📚 [Temario Curso](/eWPT.md)
+📚 [Temario Curso](eWPT.md)
 
-📍 [Recursos](/Recursos.md)
+📍 [Recursos](Recursos.md)
 
-📋 [CheatSheets](/CheatSheets/CheatSheets.md)
+📋 [CheatSheets](./CheatSheets/CheatSheets.md)
 
-G¡
