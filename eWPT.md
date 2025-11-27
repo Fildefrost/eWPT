@@ -170,6 +170,3 @@ Module 11.5: Conclusion
 
 **Section 12: Conclusion**
 
-[Recursos](Recursos%202b6360cb06dd80bea9bfe25f09362aa7.md)
-
-[CheatSheets](CheatSheets%202b6360cb06dd80a2b79ec3f9fc161931.md)
