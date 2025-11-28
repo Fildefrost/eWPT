@@ -4,4 +4,4 @@
 
 📍 [Recursos](Recursos.md)
 
-📋 [CheatSheets](/broken/pages/0rx8WMN1TmivlSRZPoC4)
+📋 [CheatSheets](cheatsheets/)
