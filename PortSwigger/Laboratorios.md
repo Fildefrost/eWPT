@@ -582,6 +582,7 @@ Y en el Payload2, pondremos un único password : 12345
 En los resultados vemos , un usuario con una longitud diferente u si observamos la respuesta aparece : 
 
 ![](../imagenes/autlab2.png)
+
 Usuario: alterwind
 
 ![](../imagenes/authlab3.png)
