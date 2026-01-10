@@ -583,9 +583,23 @@ En los resultados vemos , un usuario con una longitud diferente u si observamos 
 
 ![](../imagenes/autlab2.png)
 Usuario: alterwind
+
 ![](../imagenes/authlab3.png)
 
 Por lo que sabemos que este es el usuario válido.
 
 Vamos a tratar de encontrar el password: 
+
+Creamos ahora un ataque tipo Sniper, con el usuario que hemos encontrado y como Payload la lista de password facilitada.
+
+En este caso, añadimos un ExtractGrep para ver las respuestas. En la columna de los resultados vemos uno que es diferente al resto, ya que aparece en blanco:
+
+![](../imagenes/autlab8.png)
+
+Password: starwars
+
+Esperamos un minuto y nos logamos con este usuario y cotraseña y con esto queda finalizado el laboratorio.
+
+![](../imagenes/authlab7.png)
+
 

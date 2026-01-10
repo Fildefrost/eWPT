@@ -25,14 +25,14 @@
             "id": "f7f07aea75414ce3",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "PortSwigger/Laboratorios.md",
-                "bFile": "PortSwigger/Laboratorios.md",
-                "aRef": ""
+                "file": "PortSwigger/Laboratorios.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Laboratorios  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Laboratorios"
             }
           }
         ],
@@ -223,6 +223,8 @@
   },
   "active": "f7f07aea75414ce3",
   "lastOpenFiles": [
+    "imagenes/authlab7.png",
+    "imagenes/autlab8.png",
     "PortSwigger/Laboratorios.md",
     "imagenes/authlab3.png",
     "imagenes/autlab2.png",
@@ -234,7 +236,6 @@
     "imagenes/Pasted image 20260110161547.png",
     "imagenes/Laboratorios1.png",
     "imagenes/Pasted image 20260110155901.png",
-    "imagenes/Pasted image 20260110155732.png",
     "imagenes",
     "README.md",
     "PortSwigger/Academia.md",
