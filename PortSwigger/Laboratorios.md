@@ -549,7 +549,7 @@ Hemos detectado que tan solo cambia cuando se prueba mas de 4 veces un password 
 
 Lo que hacemos es crear una lista para enumerar usuarios, en los que duplicamos los nombres de cada usuario 3 veces para que, mediante un ataque ClusterBomb, prueba las contraseñas seguidas para cada usuario, buscando que usuario es válido y nos cambia el menaje de error. Así obtendremos el usuario correcto.
 
-![[../imagenes/authlab.png]]
+![](../imagenes/authlab1.png)
 
 En la lista del primer Payload irá la lista de usuarios duplicada:
 

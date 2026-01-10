@@ -39,9 +39,7 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//PortSwigger",
-    "//CheatSheets",
-    "//imagenes"
+    "//PortSwigger"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
