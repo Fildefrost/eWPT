@@ -90,7 +90,7 @@
             }
           },
           {
-            "id": "bc962b3cc2c6dd3b",
+            "id": "4393b0151d29423a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -190,13 +190,23 @@
               "icon": "lucide-list",
               "title": "Esquema de Academia"
             }
+          },
+          {
+            "id": "cb2070c7086df826",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,9 +223,22 @@
   },
   "active": "f7f07aea75414ce3",
   "lastOpenFiles": [
-    "CheatSheets/Tools.md",
+    "imagenes/authlab.png",
+    "imagenes/Pasted image 20260110161133.png",
+    "imagenes/Laboratorios2.png",
+    "imagenes/Pasted image 20260110161547.png",
     "PortSwigger/Laboratorios.md",
+    "imagenes/Laboratorios1.png",
+    "imagenes/Pasted image 20260110155901.png",
+    "imagenes/Pasted image 20260110155732.png",
+    "imagenes",
+    "Pasted image 20260110155327.png",
+    "README.md",
     "PortSwigger/Academia.md",
+    "PortSwigger/info.md",
+    "cheatsheets/README.md",
+    "cheatsheets",
+    "CheatSheets/Tools.md",
     "Tags",
     "PortSwigger"
   ]

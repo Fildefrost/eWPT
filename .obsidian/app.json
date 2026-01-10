@@ -1,1 +1,5 @@
-{}
+{
+  "attachmentFolderPath": "imagenes",
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true
+}

@@ -40,7 +40,8 @@
   "expandedSpaces": [
     "/",
     "//PortSwigger",
-    "//CheatSheets"
+    "//CheatSheets",
+    "//imagenes"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
